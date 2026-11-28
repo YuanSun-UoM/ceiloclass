@@ -16,7 +16,7 @@ from typing import Literal
 
 import numpy as np
 import numpy.typing as npt
-from ceilopyter import Ceilo
+from ceilopyter.ceilo import Ceilo
 from numpy import ma
 
 from .detection import (

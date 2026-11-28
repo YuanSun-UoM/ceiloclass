@@ -8,9 +8,9 @@ from collections.abc import Callable, Sequence
 from os import PathLike
 from pathlib import Path
 from typing import cast
-
+from ceilopyter.ceilo import Ceilo
 from ceilopyter import (
-    Ceilo,
+    #Ceilo,
     average_time,
     read_chm15k,
     read_cl31,
